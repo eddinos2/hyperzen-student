@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 128 128">
+  <g fill="none" stroke="#2B2B2B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- top petal -->
+    <path d="M64 36 C 76 46, 76 60, 64 70 C 52 60, 52 46, 64 36" />
+    <!-- left petal -->
+    <path d="M42 70 C 28 56, 36 40, 50 50 C 54 54, 54 62, 42 70" />
+    <!-- right petal -->
+    <path d="M86 70 C 74 62, 74 54, 78 50 C 92 40, 100 56, 86 70" />
+    <!-- base waves -->
+    <path d="M28 78 C 48 88, 80 88, 100 78" />
+    <path d="M36 86 C 58 94, 70 94, 92 86" />
+  </g>
+</svg>

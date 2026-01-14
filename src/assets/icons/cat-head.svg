@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 128 128">
+  <g fill="none" stroke="#2B2B2B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- head outline with ears -->
+    <path d="M32 54 L44 36 C 54 44, 74 44, 84 36 L96 54 C 98 58, 98 68, 92 76 C 82 90, 46 90, 36 76 C 30 68, 30 58, 32 54 Z" />
+    <!-- eyes -->
+    <path d="M50 66 C 54 64, 58 64, 62 66" />
+    <path d="M66 66 C 70 64, 74 64, 78 66" />
+    <!-- nose/mouth -->
+    <path d="M64 72 q -2 2, -4 0" />
+    <path d="M64 72 q 2 2, 4 0" />
+    <!-- whiskers -->
+    <path d="M38 70 h14" />
+    <path d="M76 70 h14" />
+  </g>
+</svg>

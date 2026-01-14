@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 128 128">
+  <g fill="none" stroke="#2B2B2B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- head with ears -->
+    <path d="M46 40 L54 30 C 60 34, 68 34, 74 30 L82 40 C 84 44, 84 52, 80 56 C 74 62, 52 62, 46 56 C 42 52, 42 44, 46 40 Z" />
+    <!-- closed eyes -->
+    <path d="M54 50 c 4 -2, 8 -2, 12 0" />
+    <!-- body sitting -->
+    <path d="M64 64 C 58 70, 54 78, 54 88 C 54 96, 74 96, 74 88 C 74 78, 70 70, 64 64 Z" />
+    <!-- paws -->
+    <path d="M54 88 c 4 6, 24 6, 28 0" />
+    <!-- tail -->
+    <path d="M76 86 c 10 -2, 14 8, 8 14" />
+  </g>
+</svg>

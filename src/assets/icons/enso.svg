@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 128 128">
+  <g fill="none" stroke="#2B2B2B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 18
+             A46 46 0 1 1 63.8 18"
+          />
+    <!-- Opening rendered by not closing the arc -->
+  </g>
+</svg>

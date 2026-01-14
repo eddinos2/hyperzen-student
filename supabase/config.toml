@@ -1,0 +1,42 @@
+# Le project_id sera automatiquement rempli lors de la commande 'supabase link --project-ref YOUR_PROJECT_ID'
+# Ne pas hardcoder votre project_id ici pour permettre à chaque développeur d'utiliser son propre projet
+# project_id = "YOUR_PROJECT_ID"
+
+[functions.generer-recu-pdf]
+verify_jwt = false
+
+[functions.envoyer-notification-email]
+verify_jwt = false
+
+[functions.parse-import]
+verify_jwt = false
+
+[functions.sync-google-sheets]
+verify_jwt = true
+
+[functions.repair-eleves]
+verify_jwt = true
+
+[functions.creer-compte-eleve]
+verify_jwt = true
+
+[functions.envoyer-identifiants-eleve]
+verify_jwt = false
+
+[functions.admin-gerer-utilisateur]
+verify_jwt = true
+
+[functions.get-eleve-email]
+verify_jwt = false
+
+[functions.traiter-relances-automatiques]
+verify_jwt = false
+
+[functions.notifier-echeance-proche]
+verify_jwt = false
+
+[functions.notifier-confirmation-paiement]
+verify_jwt = false
+
+[functions.sync-typeform]
+verify_jwt = false
