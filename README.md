@@ -21,8 +21,8 @@ Pour travailler sur ce projet en local avec **votre propre projet Supabase** :
 
 ```sh
 # 1. Cloner le dépôt
-git clone https://github.com/eddinos2/v3.git
-cd v3
+git clone https://github.com/eddinos2/hyperzen-student-clean.git
+cd hyperzen-student-clean
 
 # 2. Installer les dépendances frontend
 npm install

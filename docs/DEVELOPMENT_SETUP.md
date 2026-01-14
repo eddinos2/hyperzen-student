@@ -17,8 +17,8 @@ et recréer la base de données à l'identique, sans dépendre de l'environnemen
 ### 2. Cloner le projet
 
 ```sh
-git clone https://github.com/eddinos2/v3.git
-cd v3
+git clone https://github.com/eddinos2/hyperzen-student-clean.git
+cd hyperzen-student-clean
 npm install
 ```
 
